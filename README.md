@@ -1,4 +1,4 @@
-# Gmail Backlog Janitor 🧹
+# Gmail Bulk-Delete Janitor 🧹
 
 **A Google Apps Script utility to bypass Gmail's UI limitations and bulk-delete massive email backlogs (100,000+ threads) automatically.**
 
