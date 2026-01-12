@@ -26,7 +26,7 @@ This script uses the **Gmail API** to act as a "Silent Janitor." It runs in the 
 ### 1. Create the Script
 1.  Go to [script.google.com](https://script.google.com).
 2.  Click **New Project**.
-3.  Replace the default code with the contents of `Code.gs` from this repository.
+3.  Replace the default code with the contents of `code.gs` from this repository.
 
 ### 2. Enable Gmail API
 1.  On the left sidebar, click the **+** next to **Services**.
